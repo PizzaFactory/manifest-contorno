@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="https://github.com/pizzafactory-contorno" />
+    <default name="github" remote="github" revison="main"/>
+
+    <project name="athrill" />
+    <project name="camino-sidecar-clangd-multiarch" />
+    <project name="che-editor-vim" />
+    <project name="che-editor-vim.old" />
+    <project name="claat" />
+    <project name="cocos2d-x" />
+    <project name="cocos-bcx-testnet" />
+    <project name="eksctl" />
+    <project name="eosio-node" />
+    <project name="ethereum-remix" />
+    <project name="gcc-aarch64-linux-gnu" />
+    <project name="gdb-multiarch" />
+    <project name="iost-node" />
+    <project name="libra-move" />
+    <project name="monasuite-lnd" />
+    <project name="monasuite-neutrino" />
+    <project name="nem-nis1" />
+    <project name="plantuml" />
+    <project name="qemu-xilinx" />
+    <project name="sourcery-lite-gnu-arm" />
+</manifest>
