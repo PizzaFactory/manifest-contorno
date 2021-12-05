@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="github" fetch="https://github.com/pizzafactory-contorno" />
-    <default name="github" remote="github" revison="main"/>
+    <default remote="github" revision="main"/>
 
     <project name="athrill" />
     <project name="camino-sidecar-clangd-multiarch" />
     <project name="che-editor-vim" />
-    <project name="che-editor-vim.old" />
     <project name="claat" />
     <project name="cocos2d-x" />
     <project name="cocos-bcx-testnet" />
